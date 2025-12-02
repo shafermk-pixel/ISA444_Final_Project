@@ -1,0 +1,10 @@
+win_count,count
+chronos,19
+NHITS,12
+LightGBM,11
+AutoARIMA,8
+XGBoost,8
+NBEATS,7
+Naive,5
+AutoETS,5
+SeasonalNaive,1
